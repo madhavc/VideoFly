@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    android:background="#00000000"
+    tools:context="com.example.videofly.MainActivity" >
+    
+
+   <RelativeLayout
+        android:id="@+id/subscriberview"
+        android:layout_width="85dp"
+        android:layout_height="85dp" >
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/publisherview"
+        android:layout_width="0dp"
+        android:layout_height="0dp" >
+    </RelativeLayout>
+
+    
+
+</RelativeLayout>
